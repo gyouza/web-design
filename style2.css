@@ -1,0 +1,40 @@
+.col-6 {
+    width: 590px;
+    color: #fff;
+    background-color: green;
+    font-size: 12px;
+    padding: 20px;
+    border: 1px solid green;
+    border-radius: 8px;
+    text-decoration: none;
+   
+}
+
+nav li {
+     float: left;
+}
+
+.col-5 {
+    width: 490px;
+
+}
+.col-5:hover {
+    background: #fff;
+    color: green;
+    transition: 1s;
+    border: 1px solid green;
+    border-radius: 8px;
+    float: left;
+}
+
+.col-1{
+    width: 90px;
+}
+
+img{
+    margin-right: 10px;
+}
+
+nav{
+    list-style-type: none;
+}
